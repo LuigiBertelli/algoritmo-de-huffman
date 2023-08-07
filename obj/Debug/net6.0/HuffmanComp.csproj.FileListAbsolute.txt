@@ -1,0 +1,15 @@
+C:\Users\berte\My Projects\Desafio IntelliTrader\Desafio 1 - Algoritmo de Huffman\HuffmanComp\bin\Debug\net6.0\HuffmanComp.exe
+C:\Users\berte\My Projects\Desafio IntelliTrader\Desafio 1 - Algoritmo de Huffman\HuffmanComp\bin\Debug\net6.0\HuffmanComp.deps.json
+C:\Users\berte\My Projects\Desafio IntelliTrader\Desafio 1 - Algoritmo de Huffman\HuffmanComp\bin\Debug\net6.0\HuffmanComp.runtimeconfig.json
+C:\Users\berte\My Projects\Desafio IntelliTrader\Desafio 1 - Algoritmo de Huffman\HuffmanComp\bin\Debug\net6.0\HuffmanComp.dll
+C:\Users\berte\My Projects\Desafio IntelliTrader\Desafio 1 - Algoritmo de Huffman\HuffmanComp\bin\Debug\net6.0\HuffmanComp.pdb
+C:\Users\berte\My Projects\Desafio IntelliTrader\Desafio 1 - Algoritmo de Huffman\HuffmanComp\obj\Debug\net6.0\HuffmanComp.csproj.AssemblyReference.cache
+C:\Users\berte\My Projects\Desafio IntelliTrader\Desafio 1 - Algoritmo de Huffman\HuffmanComp\obj\Debug\net6.0\HuffmanComp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berte\My Projects\Desafio IntelliTrader\Desafio 1 - Algoritmo de Huffman\HuffmanComp\obj\Debug\net6.0\HuffmanComp.AssemblyInfoInputs.cache
+C:\Users\berte\My Projects\Desafio IntelliTrader\Desafio 1 - Algoritmo de Huffman\HuffmanComp\obj\Debug\net6.0\HuffmanComp.AssemblyInfo.cs
+C:\Users\berte\My Projects\Desafio IntelliTrader\Desafio 1 - Algoritmo de Huffman\HuffmanComp\obj\Debug\net6.0\HuffmanComp.csproj.CoreCompileInputs.cache
+C:\Users\berte\My Projects\Desafio IntelliTrader\Desafio 1 - Algoritmo de Huffman\HuffmanComp\obj\Debug\net6.0\HuffmanComp.dll
+C:\Users\berte\My Projects\Desafio IntelliTrader\Desafio 1 - Algoritmo de Huffman\HuffmanComp\obj\Debug\net6.0\refint\HuffmanComp.dll
+C:\Users\berte\My Projects\Desafio IntelliTrader\Desafio 1 - Algoritmo de Huffman\HuffmanComp\obj\Debug\net6.0\HuffmanComp.pdb
+C:\Users\berte\My Projects\Desafio IntelliTrader\Desafio 1 - Algoritmo de Huffman\HuffmanComp\obj\Debug\net6.0\HuffmanComp.genruntimeconfig.cache
+C:\Users\berte\My Projects\Desafio IntelliTrader\Desafio 1 - Algoritmo de Huffman\HuffmanComp\obj\Debug\net6.0\ref\HuffmanComp.dll
